@@ -1,3 +1,6 @@
+## Deploy
+https://snowmarble.github.io/react-demo-for-school/
+
 ## 페키지
 
 - react-router-dom
