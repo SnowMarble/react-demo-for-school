@@ -1,0 +1,14 @@
+.title {
+  flex: 4;
+}
+
+.image {
+  flex: 5;
+  height: 66vh;
+}
+
+.italic {
+  color: #3eca8e;
+  font-style: italic;
+  font-weight: 500;
+}
